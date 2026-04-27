@@ -1,9 +1,10 @@
+#Jerez, Joaqui Rainiel A.
+#BSCpE 1-4
 class EvenAndOddNumberProcesser:
     def __init__(self):
         self.numbers = []
         self.even_numbers = []
         self.odd_numbers = []
-
 #open the file
     def read_numbers(self):
         file = open('numbers.txt', 'r')
