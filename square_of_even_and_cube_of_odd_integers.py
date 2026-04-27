@@ -30,5 +30,5 @@ class CubeAndSquareInteger:
         self.write_cubes()
 #process the file
 if __name__ == "__main__":
-    processor = CubeAndSquareInteger("numbers.txt")
+    processor = CubeAndSquareInteger("integers.txt")
     processor.process()
