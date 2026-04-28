@@ -1,5 +1,5 @@
 #Jerez, Joaqui Rainiel A.
-#BSCpE 1-
+#BSCpE 1-4
 #represents the record of the students
 class Student:
 

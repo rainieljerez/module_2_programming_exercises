@@ -1,5 +1,5 @@
-
-
+#Jerez, Joaqui Rainiel A.
+#BSCpE 1-4
 class CubeAndSquareInteger:
     def __init__(self, source_file):
         self.source_file = source_file

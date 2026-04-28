@@ -1,5 +1,5 @@
-
-
+#Jerez, Joaqui Rainiel A.
+#BSCpE 1-4
 #class
 class WriteToFile:
     def __init__(self, filename):
